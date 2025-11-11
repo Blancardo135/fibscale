@@ -21,7 +21,7 @@ balancing](<https://en.wikipedia.org/wiki/Load_balancing_(computing)>).
 
 ## Requirements
 
-- [Ruby](https://www.ruby-lang.org) 3.x
+- [Ruby](https://www.ruby-lang.org) 3.2+
 
 ## Setup
 
